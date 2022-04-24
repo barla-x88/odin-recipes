@@ -1,0 +1,25 @@
+
+/* 
+TODO 
+
+1.define styles that apply globally in the project
+-font settings
+-margin settings
+-background color settings
+
+
+*/
+
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
